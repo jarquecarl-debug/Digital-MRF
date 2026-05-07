@@ -39,7 +39,7 @@ Employee submits request → Manager reviews → Approved / Denied
 - **Notification bell** — users receive in-app notifications for approvals, denials, and issuance events
 
 ### Media Uploads
-- Requesters can attach supporting documents and images via **Cloudinary**
+- Conformers can attach supporting documents and images via **Cloudinary**
 - Uploaded media is stored and linked directly to each MRF record
 
 ### Authentication & Roles
@@ -47,7 +47,7 @@ Employee submits request → Manager reviews → Approved / Denied
 - Role-based access: employees see their own requests, managers see the full queue
 
 ### PDF Generation
-- Approved MRFs can be exported as formatted PDF documents for physical record-keeping
+- Issued MRFs can be exported as formatted PDF documents for physical record-keeping
 
 ### Reusable Component Architecture
 - Built with modular, reusable React components following clean code standards
@@ -71,7 +71,7 @@ Employee submits request → Manager reviews → Approved / Denied
 
 ## My Role
 
-This project was assigned to me as a **QA Intern / Frontend Developer** at HS Technologies. I was solely responsible for the entire frontend — architecture, component design, Firebase integration, and the full request lifecycle UI — while collaborating with a backend developer on API contracts and data structure.
+This project was assigned to me as a **QA Intern / Frontend Developer** at HS Technologies. I was solely responsible for the entire frontend — architecture, component design, and the full request lifecycle UI — while collaborating with a backend developer on API contracts and data structure.
 
 Key contributions:
 - Designed and built the complete MRF submission, approval, denial, and revision workflow
